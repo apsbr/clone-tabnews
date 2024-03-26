@@ -1,2 +1,2 @@
-# clone.tabnews.dev
+# clone-tabnews
 Clone do tabnews
